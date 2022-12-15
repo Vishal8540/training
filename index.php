@@ -32,7 +32,4 @@
 //     echo "Even Number";
 // }
 
-
-hasfjasdfjsdlfal
-
 ?>
