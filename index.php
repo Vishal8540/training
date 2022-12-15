@@ -32,6 +32,4 @@
 //     echo "Even Number";
 // }
 
-sdfkasdf
-
 ?>
